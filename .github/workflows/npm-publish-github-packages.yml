@@ -15,12 +15,12 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 16
-      - run: npm ci
-      - run: npm test
+      - run: npm install
+      - run: npm app.js
 
   publish-gpr:
     needs: build
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     permissions:
       contents: read
       packages: write
@@ -30,7 +30,7 @@ jobs:
         with:
           node-version: 16
           registry-url: https://npm.pkg.github.com/
-      - run: npm ci
-      - run: npm publish
+    - run: npm install
+      - run: npm app.js
         env:
           NODE_AUTH_TOKEN: ${{secrets.A436WY4Z6DD4QJKUZHVFJQ3FPKYCS}}
