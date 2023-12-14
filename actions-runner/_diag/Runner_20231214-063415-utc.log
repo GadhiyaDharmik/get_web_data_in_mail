@@ -1,0 +1,184 @@
+[2023-12-14 06:34:15Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2023-12-14 06:34:15Z INFO HostContext] Well known directory 'Bin': 'D:\New folder (4)\New folder\New folder\get_web_data_in_mail\actions-runner\bin'
+[2023-12-14 06:34:15Z INFO HostContext] Well known directory 'Root': 'D:\New folder (4)\New folder\New folder\get_web_data_in_mail\actions-runner'
+[2023-12-14 06:34:15Z INFO HostContext] Well known config file 'Credentials': 'D:\New folder (4)\New folder\New folder\get_web_data_in_mail\actions-runner\.credentials'
+[2023-12-14 06:34:15Z INFO HostContext] Well known directory 'Bin': 'D:\New folder (4)\New folder\New folder\get_web_data_in_mail\actions-runner\bin'
+[2023-12-14 06:34:15Z INFO HostContext] Well known directory 'Root': 'D:\New folder (4)\New folder\New folder\get_web_data_in_mail\actions-runner'
+[2023-12-14 06:34:15Z INFO HostContext] Well known config file 'Runner': 'D:\New folder (4)\New folder\New folder\get_web_data_in_mail\actions-runner\.runner'
+[2023-12-14 06:34:15Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2023-12-14 06:34:15Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.19043.
+[2023-12-14 06:34:15Z INFO Listener] Version: 2.311.0
+[2023-12-14 06:34:15Z INFO Listener] Commit: f5cff308c83746dddd726a9a28a1583872305aaa
+[2023-12-14 06:34:15Z INFO Listener] Culture: en-IN
+[2023-12-14 06:34:15Z INFO Listener] UI Culture: en-US
+[2023-12-14 06:34:15Z INFO HostContext] Well known directory 'Bin': 'D:\New folder (4)\New folder\New folder\get_web_data_in_mail\actions-runner\bin'
+[2023-12-14 06:34:15Z INFO HostContext] Well known directory 'Root': 'D:\New folder (4)\New folder\New folder\get_web_data_in_mail\actions-runner'
+[2023-12-14 06:34:15Z INFO Listener] Validating directory permissions for: 'D:\New folder (4)\New folder\New folder\get_web_data_in_mail\actions-runner'
+[2023-12-14 06:34:15Z INFO CommandLineParser] Parse
+[2023-12-14 06:34:15Z INFO CommandLineParser] Parsing 5 args
+[2023-12-14 06:34:15Z INFO CommandLineParser] parsing argument
+[2023-12-14 06:34:15Z INFO CommandLineParser] HasArgs: False
+[2023-12-14 06:34:15Z INFO CommandLineParser] Adding Command: configure
+[2023-12-14 06:34:15Z INFO CommandLineParser] parsing argument
+[2023-12-14 06:34:15Z INFO CommandLineParser] HasArgs: True
+[2023-12-14 06:34:15Z INFO CommandLineParser] arg: url
+[2023-12-14 06:34:15Z INFO CommandLineParser] parsing argument
+[2023-12-14 06:34:15Z INFO CommandLineParser] HasArgs: True
+[2023-12-14 06:34:15Z INFO CommandLineParser] Adding option 'url': 'https://github.com/GadhiyaDharmik/get_web_data_in_mail'
+[2023-12-14 06:34:15Z INFO CommandLineParser] parsing argument
+[2023-12-14 06:34:15Z INFO CommandLineParser] HasArgs: True
+[2023-12-14 06:34:15Z INFO CommandLineParser] arg: token
+[2023-12-14 06:34:15Z INFO CommandLineParser] parsing argument
+[2023-12-14 06:34:15Z INFO CommandLineParser] HasArgs: True
+[2023-12-14 06:34:15Z INFO CommandLineParser] Adding option 'token': '***'
+[2023-12-14 06:34:15Z INFO Listener] Arguments parsed
+[2023-12-14 06:34:15Z INFO Runner] ExecuteCommand
+[2023-12-14 06:34:15Z INFO ConfigurationStore] currentAssemblyLocation: D:\New folder (4)\New folder\New folder\get_web_data_in_mail\actions-runner\bin\Runner.Listener.dll
+[2023-12-14 06:34:15Z INFO HostContext] Well known directory 'Bin': 'D:\New folder (4)\New folder\New folder\get_web_data_in_mail\actions-runner\bin'
+[2023-12-14 06:34:15Z INFO ConfigurationStore] binPath: D:\New folder (4)\New folder\New folder\get_web_data_in_mail\actions-runner\bin
+[2023-12-14 06:34:15Z INFO HostContext] Well known directory 'Bin': 'D:\New folder (4)\New folder\New folder\get_web_data_in_mail\actions-runner\bin'
+[2023-12-14 06:34:15Z INFO HostContext] Well known directory 'Root': 'D:\New folder (4)\New folder\New folder\get_web_data_in_mail\actions-runner'
+[2023-12-14 06:34:15Z INFO ConfigurationStore] RootFolder: D:\New folder (4)\New folder\New folder\get_web_data_in_mail\actions-runner
+[2023-12-14 06:34:15Z INFO HostContext] Well known directory 'Bin': 'D:\New folder (4)\New folder\New folder\get_web_data_in_mail\actions-runner\bin'
+[2023-12-14 06:34:15Z INFO HostContext] Well known directory 'Root': 'D:\New folder (4)\New folder\New folder\get_web_data_in_mail\actions-runner'
+[2023-12-14 06:34:15Z INFO HostContext] Well known config file 'Runner': 'D:\New folder (4)\New folder\New folder\get_web_data_in_mail\actions-runner\.runner'
+[2023-12-14 06:34:15Z INFO ConfigurationStore] ConfigFilePath: D:\New folder (4)\New folder\New folder\get_web_data_in_mail\actions-runner\.runner
+[2023-12-14 06:34:15Z INFO HostContext] Well known directory 'Bin': 'D:\New folder (4)\New folder\New folder\get_web_data_in_mail\actions-runner\bin'
+[2023-12-14 06:34:15Z INFO HostContext] Well known directory 'Root': 'D:\New folder (4)\New folder\New folder\get_web_data_in_mail\actions-runner'
+[2023-12-14 06:34:15Z INFO HostContext] Well known config file 'Credentials': 'D:\New folder (4)\New folder\New folder\get_web_data_in_mail\actions-runner\.credentials'
+[2023-12-14 06:34:15Z INFO ConfigurationStore] CredFilePath: D:\New folder (4)\New folder\New folder\get_web_data_in_mail\actions-runner\.credentials
+[2023-12-14 06:34:15Z INFO HostContext] Well known directory 'Bin': 'D:\New folder (4)\New folder\New folder\get_web_data_in_mail\actions-runner\bin'
+[2023-12-14 06:34:15Z INFO HostContext] Well known directory 'Root': 'D:\New folder (4)\New folder\New folder\get_web_data_in_mail\actions-runner'
+[2023-12-14 06:34:15Z INFO HostContext] Well known config file 'MigratedCredentials': 'D:\New folder (4)\New folder\New folder\get_web_data_in_mail\actions-runner\.credentials_migrated'
+[2023-12-14 06:34:15Z INFO ConfigurationStore] MigratedCredFilePath: D:\New folder (4)\New folder\New folder\get_web_data_in_mail\actions-runner\.credentials_migrated
+[2023-12-14 06:34:15Z INFO HostContext] Well known directory 'Bin': 'D:\New folder (4)\New folder\New folder\get_web_data_in_mail\actions-runner\bin'
+[2023-12-14 06:34:15Z INFO HostContext] Well known directory 'Root': 'D:\New folder (4)\New folder\New folder\get_web_data_in_mail\actions-runner'
+[2023-12-14 06:34:15Z INFO HostContext] Well known config file 'Service': 'D:\New folder (4)\New folder\New folder\get_web_data_in_mail\actions-runner\.service'
+[2023-12-14 06:34:15Z INFO ConfigurationStore] ServiceConfigFilePath: D:\New folder (4)\New folder\New folder\get_web_data_in_mail\actions-runner\.service
+[2023-12-14 06:34:15Z INFO CommandSettings] Flag 'help': 'False'
+[2023-12-14 06:34:15Z INFO CommandSettings] Flag 'version': 'False'
+[2023-12-14 06:34:15Z INFO CommandSettings] Flag 'commit': 'False'
+[2023-12-14 06:34:15Z INFO CommandSettings] Flag 'check': 'False'
+[2023-12-14 06:34:15Z INFO CommandSettings] Command 'configure': 'True'
+[2023-12-14 06:34:15Z INFO Terminal] WRITE LINE: 
+[2023-12-14 06:34:15Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2023-12-14 06:34:15Z INFO Terminal] WRITE LINE: |        ____ _ _   _   _       _          _        _   _                      |
+[2023-12-14 06:34:15Z INFO Terminal] WRITE LINE: |       / ___(_) |_| | | |_   _| |__      / \   ___| |_(_) ___  _ __  ___      |
+[2023-12-14 06:34:15Z INFO Terminal] WRITE LINE: |      | |  _| | __| |_| | | | | '_ \    / _ \ / __| __| |/ _ \| '_ \/ __|     |
+[2023-12-14 06:34:15Z INFO Terminal] WRITE LINE: |      | |_| | | |_|  _  | |_| | |_) |  / ___ \ (__| |_| | (_) | | | \__ \     |
+[2023-12-14 06:34:15Z INFO Terminal] WRITE LINE: |       \____|_|\__|_| |_|\__,_|_.__/  /_/   \_\___|\__|_|\___/|_| |_|___/     |
+[2023-12-14 06:34:15Z INFO Terminal] WRITE LINE: |                                                                              |
+[2023-12-14 06:34:15Z INFO Terminal] WRITE: |                       
+[2023-12-14 06:34:15Z INFO Terminal] WRITE: Self-hosted runner registration
+[2023-12-14 06:34:15Z INFO Terminal] WRITE LINE:                         |
+[2023-12-14 06:34:15Z INFO Terminal] WRITE LINE: |                                                                              |
+[2023-12-14 06:34:15Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2023-12-14 06:34:15Z INFO ConfigurationManager] ConfigureAsync
+[2023-12-14 06:34:15Z INFO CommandSettings] Flag 'generateServiceConfig': 'False'
+[2023-12-14 06:34:15Z INFO ConfigurationStore] IsConfigured()
+[2023-12-14 06:34:15Z INFO ConfigurationStore] IsConfigured: False
+[2023-12-14 06:34:15Z INFO ConfigurationManager] Is configured: False
+[2023-12-14 06:34:15Z INFO CommandSettings] Arg 'url': 'https://github.com/GadhiyaDharmik/get_web_data_in_mail'
+[2023-12-14 06:34:15Z INFO CommandSettings] Remove url from Arg dictionary.
+[2023-12-14 06:34:15Z INFO CommandSettings] Arg 'token': '***'
+[2023-12-14 06:34:15Z INFO CommandSettings] Remove token from Arg dictionary.
+[2023-12-14 06:34:16Z INFO ConfigurationManager] Http response code: OK from 'POST https://api.github.com/actions/runner-registration' (E478:3BFC3:97D0F5:A21E2A:657AA3BA)
+[2023-12-14 06:34:16Z INFO ConfigurationManager] Using V2 flow: False
+[2023-12-14 06:34:16Z INFO ConfigurationManager] cred retrieved via GitHub auth
+[2023-12-14 06:34:16Z INFO RunnerServer] EstablishVssConnection
+[2023-12-14 06:34:16Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2023-12-14 06:34:16Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-12-14 06:34:17Z INFO RunnerServer] EstablishVssConnection
+[2023-12-14 06:34:17Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-12-14 06:34:17Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-12-14 06:34:17Z INFO RunnerServer] EstablishVssConnection
+[2023-12-14 06:34:17Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-12-14 06:34:17Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-12-14 06:34:18Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-12-14 06:34:18Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-12-14 06:34:18Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-12-14 06:34:18Z INFO Terminal] WRITE LINE: 
+[2023-12-14 06:34:18Z INFO ConfigurationManager] Test Connection complete.
+[2023-12-14 06:34:18Z INFO HostContext] Well known directory 'Bin': 'D:\New folder (4)\New folder\New folder\get_web_data_in_mail\actions-runner\bin'
+[2023-12-14 06:34:18Z INFO HostContext] Well known directory 'Root': 'D:\New folder (4)\New folder\New folder\get_web_data_in_mail\actions-runner'
+[2023-12-14 06:34:18Z INFO HostContext] Well known config file 'RSACredentials': 'D:\New folder (4)\New folder\New folder\get_web_data_in_mail\actions-runner\.credentials_rsaparams'
+[2023-12-14 06:34:18Z INFO RSAEncryptedFileKeyManager] Creating new RSA key using 2048-bit key length
+[2023-12-14 06:34:19Z INFO RSAEncryptedFileKeyManager] Successfully saved RSA key parameters to file D:\New folder (4)\New folder\New folder\get_web_data_in_mail\actions-runner\.credentials_rsaparams
+[2023-12-14 06:34:19Z INFO CommandSettings] Arg 'runnergroup': ''
+[2023-12-14 06:34:19Z INFO CommandSettings] Flag 'unattended': 'False'
+[2023-12-14 06:34:19Z INFO PromptManager] ReadValue
+[2023-12-14 06:34:19Z INFO Terminal] WRITE: Enter the name of the runner group to add this runner to: 
+[2023-12-14 06:34:19Z INFO Terminal] WRITE: [press Enter for Default] 
+[2023-12-14 06:34:19Z INFO Terminal] READ LINE
+[2023-12-14 06:34:36Z INFO Terminal] Read value: ''
+[2023-12-14 06:34:36Z INFO PromptManager] Falling back to the default: 'Default'
+[2023-12-14 06:34:36Z INFO Terminal] WRITE LINE: 
+[2023-12-14 06:34:36Z INFO ConfigurationManager] Found a self-hosted runner group with id 1 and name Default
+[2023-12-14 06:34:36Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2023-12-14 06:34:36Z INFO CommandSettings] Flag 'ephemeral': 'False'
+[2023-12-14 06:34:36Z INFO CommandSettings] Arg 'name': ''
+[2023-12-14 06:34:36Z INFO CommandSettings] Flag 'unattended': 'False'
+[2023-12-14 06:34:36Z INFO PromptManager] ReadValue
+[2023-12-14 06:34:36Z INFO Terminal] WRITE: Enter the name of runner: 
+[2023-12-14 06:34:36Z INFO Terminal] WRITE: [press Enter for ABC-171] 
+[2023-12-14 06:34:36Z INFO Terminal] READ LINE
+[2023-12-14 06:34:39Z INFO Terminal] Read value: ''
+[2023-12-14 06:34:39Z INFO PromptManager] Falling back to the default: 'ABC-171'
+[2023-12-14 06:34:39Z INFO Terminal] WRITE LINE: 
+[2023-12-14 06:34:39Z INFO CommandSettings] Arg 'labels': ''
+[2023-12-14 06:34:39Z INFO CommandSettings] Flag 'unattended': 'False'
+[2023-12-14 06:34:39Z INFO PromptManager] ReadValue
+[2023-12-14 06:34:39Z INFO Terminal] WRITE: This runner will have the following labels: 'self-hosted', 'Windows', 'X64' 
+Enter any additional labels (ex. label-1,label-2): 
+[2023-12-14 06:34:39Z INFO Terminal] WRITE: [press Enter to skip] 
+[2023-12-14 06:34:39Z INFO Terminal] READ LINE
+[2023-12-14 06:34:41Z INFO Terminal] Read value: ''
+[2023-12-14 06:34:41Z INFO Terminal] WRITE LINE: 
+[2023-12-14 06:34:42Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2023-12-14 06:34:42Z INFO CommandSettings] Flag 'no-default-labels': 'False'
+[2023-12-14 06:34:42Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2023-12-14 06:34:42Z INFO CommandSettings] Flag 'ephemeral': 'False'
+[2023-12-14 06:34:42Z INFO ConfigurationStore] Saving OAuth credential @ D:\New folder (4)\New folder\New folder\get_web_data_in_mail\actions-runner\.credentials
+[2023-12-14 06:34:42Z INFO ConfigurationStore] Credentials Saved.
+[2023-12-14 06:34:42Z INFO ConfigurationStore] HasCredentials()
+[2023-12-14 06:34:42Z INFO ConfigurationStore] stored True
+[2023-12-14 06:34:42Z INFO CredentialManager] GetCredentialProvider
+[2023-12-14 06:34:42Z INFO CredentialManager] Creating type OAuth
+[2023-12-14 06:34:42Z INFO CredentialManager] Creating credential type: OAuth
+[2023-12-14 06:34:42Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\New folder (4)\New folder\New folder\get_web_data_in_mail\actions-runner\.credentials_rsaparams
+[2023-12-14 06:34:42Z INFO RunnerServer] EstablishVssConnection
+[2023-12-14 06:34:42Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2023-12-14 06:34:42Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-12-14 06:34:42Z INFO RunnerServer] EstablishVssConnection
+[2023-12-14 06:34:42Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-12-14 06:34:42Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-12-14 06:34:42Z INFO RunnerServer] EstablishVssConnection
+[2023-12-14 06:34:42Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-12-14 06:34:42Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-12-14 06:34:43Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-12-14 06:34:43Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-12-14 06:34:43Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-12-14 06:34:43Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\New folder (4)\New folder\New folder\get_web_data_in_mail\actions-runner\.credentials_rsaparams
+[2023-12-14 06:34:43Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\New folder (4)\New folder\New folder\get_web_data_in_mail\actions-runner\.credentials_rsaparams
+[2023-12-14 06:34:44Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-12-14 06:34:44Z INFO CommandSettings] Arg 'work': ''
+[2023-12-14 06:34:44Z INFO CommandSettings] Flag 'unattended': 'False'
+[2023-12-14 06:34:44Z INFO PromptManager] ReadValue
+[2023-12-14 06:34:44Z INFO Terminal] WRITE: Enter name of work folder: 
+[2023-12-14 06:34:44Z INFO Terminal] WRITE: [press Enter for _work] 
+[2023-12-14 06:34:44Z INFO Terminal] READ LINE
+[2023-12-14 06:34:46Z INFO Terminal] Read value: ''
+[2023-12-14 06:34:46Z INFO PromptManager] Falling back to the default: '_work'
+[2023-12-14 06:34:46Z INFO ConfigurationStore] Saving runner settings.
+[2023-12-14 06:34:46Z INFO ConfigurationStore] Settings Saved.
+[2023-12-14 06:34:46Z INFO Terminal] WRITE LINE: 
+[2023-12-14 06:34:46Z INFO Terminal] WRITE LINE: 
+[2023-12-14 06:34:46Z INFO CommandSettings] Flag 'runasservice': 'False'
+[2023-12-14 06:34:46Z INFO CommandSettings] Flag 'unattended': 'False'
+[2023-12-14 06:34:46Z INFO PromptManager] ReadValue
+[2023-12-14 06:34:46Z INFO Terminal] WRITE: Would you like to run the runner as service? (Y/N) 
+[2023-12-14 06:34:46Z INFO Terminal] WRITE: [press Enter for N] 
+[2023-12-14 06:34:46Z INFO Terminal] READ LINE
+[2023-12-14 06:34:48Z INFO Terminal] Read value: ''
+[2023-12-14 06:34:48Z INFO PromptManager] Falling back to the default: 'N'
+[2023-12-14 06:34:48Z INFO Listener] Runner execution has finished with return code 0
